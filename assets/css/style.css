@@ -1,0 +1,23 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+
+
+/* Borders for information cards */
+#what,
+#signs,
+#action,
+#links
+{
+    border: 2px solid rgb(250, 29, 29);
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.col-12,
+.row{
+    column-gap: 15px;
+    row-gap: 15px;
+}
+
+  
