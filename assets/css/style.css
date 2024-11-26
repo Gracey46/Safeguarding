@@ -16,11 +16,15 @@
    
 }
 
+/* Main */
+
 #card{
   height: 95%;
-  
 }
 
+.card-header{
+  font-size: 25px;
+}
 
 #contact-us{
   font-size: 20px;
@@ -36,16 +40,36 @@ a:visited {
   background-color: transparent;
   text-decoration: none;
 }
+/* footer */
 
-footer{
-  background-color: #ffffff;
-  height: 50px;
+footer {
+  position: bottom sticky;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  padding-left: 10px;
+  font-size: 12px;
 }
 
+/* Contact page background image */
+.background{
+  height: 500px;
+  width: 100%;
+  background: url(../images/contact-image2.png) no-repeat center/cover;
+  padding: 15px;
+
+}
+.box{
+  background-color: rgb(16, 16, 16);
+  opacity: 0.6;
+  padding: 5px;
+}
 
 /* Contact form */
 #contact-form{
-  margin: ;
+  color: white;
+  margin: 50px 50px;
+  width: 70%;
 }
 
 /**/
