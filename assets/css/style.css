@@ -31,20 +31,11 @@
 }
 
 /* Borders for information cards */
-#what,
-#signs,
-#action,
-#links
-{
-    border: 2px solid rgb(250, 29, 29);
-    background-color: rgb(243, 195, 195);
-    border-radius: 10px;
-}
 
-.col-12,
-.row{
-    column-gap: 15px;
-    row-gap: 15px;
+
+#card{
+
+
 }
 
 /**/
