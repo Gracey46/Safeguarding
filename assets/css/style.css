@@ -13,9 +13,6 @@
     font-style: italic;
   }
 
-  nav {
-
-}
 
 /* Hero section */
 #hero {
@@ -26,20 +23,29 @@
 }
 
 .hero-text {
-    position: absolute;
+    position: flex;
    
 }
 
 /* Borders for information cards */
 
 
-#card{
 
+/* Changed the Links colour so it is easier on the eye*/
 
+a:visited {
+  color: rgb(8, 8, 8);
+  background-color: transparent;
+  text-decoration: none;
 }
 
+
+
+
+
+
 /**/
-@media screen and (min-width: 576px){
+@media screen and (min-width: 760px){
 .nav-item{
     display:none;
 }
