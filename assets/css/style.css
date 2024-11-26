@@ -1,17 +1,6 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
-.dm-serif-text-regular {
-    font-family: "DM Serif Text", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  .dm-serif-text-regular-italic {
-    font-family: "DM Serif Text", serif;
-    font-weight: 400;
-    font-style: italic;
-  }
 
 
 /* Hero section */
@@ -23,11 +12,20 @@
 }
 
 .hero-text {
-    position: flex;
+    text-align: right;
    
 }
 
-/* Borders for information cards */
+#card{
+  height: 95%;
+  
+}
+
+
+#contact-us{
+  font-size: 20px;
+  color:#ffffff;
+}
 
 
 
@@ -39,10 +37,16 @@ a:visited {
   text-decoration: none;
 }
 
+footer{
+  background-color: #ffffff;
+  height: 50px;
+}
 
 
-
-
+/* Contact form */
+#contact-form{
+  margin: ;
+}
 
 /**/
 @media screen and (min-width: 760px){
