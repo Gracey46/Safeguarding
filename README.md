@@ -71,6 +71,7 @@ I want to be able to find more information if I want to read more
 
 I want the site to inform me what safeguarding is and how I can help someone I'm concerned about. 
 
+
 Testing 
 
 There have been multiple tests take to make sure this site is bug free and working. 
@@ -149,6 +150,8 @@ Grace Johnson-Love running project (https://gracey46.github.io/love-running/) wa
 ![hero-image](assets/images/hero-image2.png)
 https://www.easternbaptist.org.uk/safeguarding/safeguarding-training/  Was the source of the hero image 
 
+Co-pilot used to present the hero image and hero text with image in background text ontop placed at the bottom  of the image.
+
 Bootstrap was used to make the grid system and design for the information cards 
 
 Bookstrap was used to make the contact form. 
@@ -166,6 +169,8 @@ Govenment Safeguarding District Provision Tool https://www.gov.uk/guidance/distr
 Safeguarding Vulnerable Groups Act 2006 https://www.legislation.gov.uk/ukpga/2006/47/contents 
  
 Fontawesome was used for the footer Icons.
+
+
 
 Feature left to implement. 
 
