@@ -3,7 +3,7 @@
 
 Read me 
 
-Name: Safeguarding 
+Name: Grace Johnson-Safeguarding 
 
  
 
@@ -57,7 +57,9 @@ This site is clearly laid out with 5 cards on information. The colour red was us
 
 Wire frames 
 
- See Wireframe folder
+![desktop wireframe](assets/images/wireframe1.png)
+![tablet wireframe](assets/images/wireframe2.png)
+![phone wireframe](assets/images/wireframe3.png)
 
 User stories 
 
@@ -75,15 +77,6 @@ There have been multiple tests take to make sure this site is bug free and worki
 
 Tests taken out by the site coder. 
 
-Location 
-
-Feature 
-
-Expected Outcome 
-
-Pass/Fail 
-
-Notes 
 Feature: Nav bar drop-down 
 Location:On the top right corner when on a small screen 
 Expectation:It drops down 
@@ -153,13 +146,13 @@ During this project there are multiple sources used to have the end result.
 Content: 
 
 Grace Johnson-Love running project (https://gracey46.github.io/love-running/) was used to make the header and dropdown nav bar. 
-
+![hero-image](assets/images/hero-image2.png)
 https://www.easternbaptist.org.uk/safeguarding/safeguarding-training/  Was the source of the hero image 
 
 Bootstrap was used to make the grid system and design for the information cards 
 
 Bookstrap was used to make the contact form. 
-
+1[contact-image](assets/images/contact-image2.png)
 https://www.dental-nursing.co.uk/features/safeguarding-children-and-young-people Was the source of the background image. 
 
 The external links are: 
@@ -172,6 +165,7 @@ Govenment Safeguarding District Provision Tool https://www.gov.uk/guidance/distr
 
 Safeguarding Vulnerable Groups Act 2006 https://www.legislation.gov.uk/ukpga/2006/47/contents 
  
+Fontawesome was used for the footer Icons.
 
 Feature left to implement. 
 
@@ -181,7 +175,6 @@ The send button on the contact form to send the information that is filled out t
 
 There to be pages in twitter and Facebook for them to be linked to and fully work this is due to not having those social media pages. 
 
- 
 
 Summary 
 
